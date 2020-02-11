@@ -9,6 +9,10 @@ npm-debug.*
 *.orig.*
 web-build/
 web-report/
+/.vscode
 
 # macOS
 .DS_Store
+
+# production
+/build
