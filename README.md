@@ -26,4 +26,4 @@ This will open Expo Developer Tools in the browser. You can then do one of the f
 This project has been tested on the following platforms:
 
 - iOS 11+
-- Android 9+.
+- Android 9+
